@@ -1,2 +1,1 @@
-# Expenses-Handler-For-Teens
-This fried my brain like fried rice
+Make sure to create empty files named Data.py and Data.txt :)
